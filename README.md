@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/mraj-77/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/mraj-77/leetcode-solutions/tree/master/0704-binary-search) |
 ## Newton's Method
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mraj-77/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0704-binary-search](https://github.com/mraj-77/leetcode-solutions/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
