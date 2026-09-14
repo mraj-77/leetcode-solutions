@@ -11,7 +11,7 @@ public:
             }
             int cell = prices[i] - buy;
             if(cell > profit) {
-                profit = prices[i] - buy;
+                profit = cell;
             }
         }
 
