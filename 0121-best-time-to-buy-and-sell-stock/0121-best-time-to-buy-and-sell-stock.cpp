@@ -9,8 +9,8 @@ public:
             if(prices[i] < buy) {
                 buy = prices[i];
             }
-
-            if(prices[i] - buy > profit) {
+            int cell = prices[i] - buy;
+            if(cell > profit) {
                 profit = prices[i] - buy;
             }
         }
