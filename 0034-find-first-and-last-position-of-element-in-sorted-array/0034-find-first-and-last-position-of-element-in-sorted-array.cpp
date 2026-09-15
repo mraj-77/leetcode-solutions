@@ -23,8 +23,7 @@ public:
         }
 
         // Last occurrence
-        start = 0;
-        end = nums.size() - 1;
+        start = 0, end = nums.size() - 1;
 
         while(start <= end) {
 
