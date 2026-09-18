@@ -37,6 +37,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mraj-77/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/mraj-77/leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mraj-77/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1539-kth-missing-positive-number](https://github.com/mraj-77/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mraj-77/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/mraj-77/leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mraj-77/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1539-kth-missing-positive-number](https://github.com/mraj-77/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
 |  |
 | ------- |
