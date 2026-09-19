@@ -1,15 +1,12 @@
 class Solution {
 public:
     int shipWithinDays(vector<int>& weights, int days) {
-        
-        int start = 0;
-        int end = 0;
 
-        // Minimum capacity = maximum weight
-        // Maximum capacity = sum of all weights
-        for(int weight : weights){
-            start = max(start, weight);
-            end += weight;
+        int start = 0, end = 0;
+
+        for(int i = 0; i < weights.size(); i++){
+            start = max(start, weights[i]);
+            end += weights[i];
         }
 
         int ans = end;
@@ -18,33 +15,25 @@ public:
 
             int mid = start + (end - start) / 2;
 
-            int currentWeight = 0;
-            int requiredDays = 1;
+            int sum = 0;
+            int count = 1;
 
-            // Check how many days are needed
-            // if ship capacity is 'mid'
-            for(int weight : weights){
+            for(int i = 0; i < weights.size(); i++){
 
-                if(currentWeight + weight <= mid){
-                    currentWeight += weight;
+                if(sum + weights[i] <= mid){
+                    sum += weights[i];
                 }
                 else{
-                    // Current day is full,
-                    // so start a new day
-                    requiredDays++;
-                    currentWeight = weight;
+                    count++;
+                    sum = weights[i];
                 }
             }
 
-            // If we can ship within given days,
-            // try a smaller capacity
-            if(requiredDays <= days){
+            if(count <= days){
                 ans = mid;
                 end = mid - 1;
             }
             else{
-                // Capacity is too small,
-                // so increase it
                 start = mid + 1;
             }
         }
