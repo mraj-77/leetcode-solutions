@@ -21,6 +21,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/mraj-77/leetcode-solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/mraj-77/leetcode-solutions/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/mraj-77/leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 ## Recursion
@@ -71,6 +72,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mraj-77/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mraj-77/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mraj-77/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/mraj-77/leetcode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mraj-77/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/mraj-77/leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mraj-77/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
