@@ -78,6 +78,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mraj-77/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mraj-77/leetcode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mraj-77/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0238-product-of-array-except-self](https://github.com/mraj-77/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/mraj-77/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/mraj-77/leetcode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mraj-77/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -105,6 +106,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/mraj-77/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/mraj-77/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Stack
 |  |
