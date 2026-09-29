@@ -82,6 +82,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mraj-77/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/mraj-77/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/mraj-77/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/mraj-77/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0704-binary-search](https://github.com/mraj-77/leetcode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mraj-77/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mraj-77/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -122,4 +123,12 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/mraj-77/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/mraj-77/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/mraj-77/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
