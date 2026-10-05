@@ -93,6 +93,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/mraj-77/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/mraj-77/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/mraj-77/leetcode-solutions/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/mraj-77/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mraj-77/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mraj-77/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/mraj-77/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -124,6 +125,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mraj-77/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/mraj-77/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/mraj-77/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/mraj-77/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Stack
 |  |
