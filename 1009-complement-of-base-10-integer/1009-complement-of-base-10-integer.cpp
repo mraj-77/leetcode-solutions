@@ -1,17 +1,17 @@
 class Solution {
 public:
     int bitwiseComplement(int n) {
-        if(n==0){
-            return 1;
+        // Edge case: binary of 0 is "0", complement is "1"
+        if (n == 0) return 1;
+
+        // Build mask of all 1s with the same bit length as n
+        int mask = 1;
+        while (mask <= n) {
+            mask <<= 1;
         }
-        int rem , ans=0, mul=1;
-        while(n){
-            rem = n % 2 ;
-            rem = rem ^ 1;
-            n = n / 2;
-            ans = ans + rem * mul;
-            mul = mul *2;
-        }
-        return ans;
+        // mask is now 2^k (one bit above n's highest bit)
+
+        // (mask - 1) = all 1s, XOR flips every bit of n
+        return (mask - 1) ^ n;
     }
 };
