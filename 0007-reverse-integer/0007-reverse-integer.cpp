@@ -4,9 +4,9 @@ public:
 
         int ans = 0;
         while(x != 0) {
-
             int digit = x % 10;
 
+            // Exception case
             if((ans > INT_MAX/10) || (ans < INT_MIN/10)) {
                 return 0;
             }
