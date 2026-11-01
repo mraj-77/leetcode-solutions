@@ -11,7 +11,7 @@ public:
             }
 
             ans = (ans * 10) + digit;
-            x = x/10;
+            x /= 10;
         }
         return ans;
     }
