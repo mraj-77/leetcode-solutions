@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/mraj-77/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mraj-77/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/mraj-77/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/mraj-77/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/mraj-77/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/mraj-77/leetcode-solutions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/mraj-77/leetcode-solutions/tree/master/0292-nim-game) |
@@ -89,6 +90,7 @@
 | [0136-single-number](https://github.com/mraj-77/leetcode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mraj-77/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mraj-77/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/mraj-77/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/mraj-77/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/mraj-77/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/mraj-77/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
@@ -112,6 +114,7 @@
 | [0042-trapping-rain-water](https://github.com/mraj-77/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/mraj-77/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mraj-77/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/mraj-77/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mraj-77/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
