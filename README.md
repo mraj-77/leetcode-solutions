@@ -107,6 +107,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/mraj-77/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/mraj-77/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/mraj-77/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/mraj-77/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
