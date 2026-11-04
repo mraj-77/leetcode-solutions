@@ -20,6 +20,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/mraj-77/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/mraj-77/leetcode-solutions/tree/master/0258-add-digits) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/mraj-77/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Number Theory
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mraj-77/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mraj-77/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/mraj-77/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -171,4 +173,5 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/mraj-77/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mraj-77/leetcode-solutions/tree/master/0344-reverse-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/mraj-77/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
