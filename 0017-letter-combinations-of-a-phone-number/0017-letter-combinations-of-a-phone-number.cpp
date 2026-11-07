@@ -26,9 +26,6 @@ public:
         string output;
         int index = 0;
 
-        if(digits.empty()){
-            return ans;
-        }
 
         string mapping[10] = {
             "", "", "abc", "def", "ghi",
@@ -36,6 +33,10 @@ public:
         };
 
         solve(digits, ans, output, index, mapping);
+        
+        if(digits.empty()){
+            return ans;
+        }
 
         return ans;
     }
