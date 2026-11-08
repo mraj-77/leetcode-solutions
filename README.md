@@ -191,6 +191,7 @@
 | [0169-majority-element](https://github.com/mraj-77/leetcode-solutions/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/mraj-77/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/mraj-77/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/mraj-77/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
@@ -208,6 +209,7 @@
 | [0709-to-lower-case](https://github.com/mraj-77/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mraj-77/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/mraj-77/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/mraj-77/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/mraj-77/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
