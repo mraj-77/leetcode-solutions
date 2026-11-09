@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/mraj-77/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mraj-77/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/mraj-77/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/mraj-77/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/mraj-77/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/mraj-77/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -190,6 +191,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mraj-77/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mraj-77/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/mraj-77/leetcode-solutions/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/mraj-77/leetcode-solutions/tree/master/0409-longest-palindrome) |
@@ -206,6 +208,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mraj-77/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mraj-77/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/mraj-77/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mraj-77/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
