@@ -14,6 +14,7 @@
 | [0258-add-digits](https://github.com/mraj-77/leetcode-solutions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/mraj-77/leetcode-solutions/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/mraj-77/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/mraj-77/leetcode-solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/mraj-77/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mraj-77/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mraj-77/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -24,6 +25,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/mraj-77/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/mraj-77/leetcode-solutions/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/mraj-77/leetcode-solutions/tree/master/0415-add-strings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/mraj-77/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Number Theory
 |  |
@@ -209,6 +211,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/mraj-77/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/mraj-77/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/mraj-77/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/mraj-77/leetcode-solutions/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/mraj-77/leetcode-solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/mraj-77/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/mraj-77/leetcode-solutions/tree/master/0709-to-lower-case) |
