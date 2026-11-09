@@ -200,6 +200,7 @@
 | [0088-merge-sorted-array](https://github.com/mraj-77/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mraj-77/leetcode-solutions/tree/master/0169-majority-element) |
 | [1859-sorting-the-sentence](https://github.com/mraj-77/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
+| [2785-sort-vowels-in-a-string](https://github.com/mraj-77/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -216,6 +217,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mraj-77/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/mraj-77/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/mraj-77/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2785-sort-vowels-in-a-string](https://github.com/mraj-77/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
