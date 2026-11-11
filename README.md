@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/mraj-77/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/mraj-77/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/mraj-77/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/mraj-77/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/mraj-77/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/mraj-77/leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/mraj-77/leetcode-solutions/tree/master/0231-power-of-two) |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mraj-77/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/mraj-77/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mraj-77/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/mraj-77/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Ternary Search
@@ -261,6 +263,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mraj-77/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/mraj-77/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
