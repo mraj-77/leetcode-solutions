@@ -123,6 +123,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mraj-77/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mraj-77/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/mraj-77/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/mraj-77/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mraj-77/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mraj-77/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/mraj-77/leetcode-solutions/tree/master/1470-shuffle-the-array) |
@@ -210,6 +211,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mraj-77/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mraj-77/leetcode-solutions/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/mraj-77/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1859-sorting-the-sentence](https://github.com/mraj-77/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/mraj-77/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 ## String
@@ -244,6 +246,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/mraj-77/leetcode-solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/mraj-77/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0912-sort-an-array](https://github.com/mraj-77/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -303,4 +306,24 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mraj-77/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/mraj-77/leetcode-solutions/tree/master/0686-repeated-string-match) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mraj-77/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mraj-77/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mraj-77/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mraj-77/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mraj-77/leetcode-solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
