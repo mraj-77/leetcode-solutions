@@ -23,12 +23,14 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mraj-77/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mraj-77/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/mraj-77/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/mraj-77/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mraj-77/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/mraj-77/leetcode-solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/mraj-77/leetcode-solutions/tree/master/0415-add-strings) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/mraj-77/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/mraj-77/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Number Theory
 |  |
@@ -50,6 +52,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/mraj-77/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/mraj-77/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/mraj-77/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -133,6 +136,7 @@
 | [1539-kth-missing-positive-number](https://github.com/mraj-77/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/mraj-77/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mraj-77/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/mraj-77/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -336,4 +340,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mraj-77/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/mraj-77/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
