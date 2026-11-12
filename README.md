@@ -102,6 +102,7 @@
 | [0035-search-insert-position](https://github.com/mraj-77/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/mraj-77/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/mraj-77/leetcode-solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/mraj-77/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/mraj-77/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mraj-77/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/mraj-77/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
@@ -210,6 +211,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/mraj-77/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/mraj-77/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mraj-77/leetcode-solutions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/mraj-77/leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -276,6 +278,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mraj-77/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/mraj-77/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/mraj-77/leetcode-solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/mraj-77/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/mraj-77/leetcode-solutions/tree/master/0078-subsets) |
 ## Counting
 |  |
