@@ -155,6 +155,7 @@
 | [0443-string-compression](https://github.com/mraj-77/leetcode-solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/mraj-77/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/mraj-77/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/mraj-77/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -349,4 +350,5 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/mraj-77/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/mraj-77/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
