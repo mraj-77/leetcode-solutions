@@ -52,6 +52,7 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/mraj-77/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/mraj-77/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/mraj-77/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/mraj-77/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mraj-77/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Binary Search
@@ -152,6 +153,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/mraj-77/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mraj-77/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mraj-77/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/mraj-77/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/mraj-77/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mraj-77/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/mraj-77/leetcode-solutions/tree/master/0443-string-compression) |
@@ -181,6 +183,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mraj-77/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/mraj-77/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mraj-77/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mraj-77/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/mraj-77/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -354,5 +357,6 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mraj-77/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/mraj-77/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/mraj-77/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/mraj-77/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mraj-77/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
