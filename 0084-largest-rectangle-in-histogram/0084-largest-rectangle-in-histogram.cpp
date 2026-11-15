@@ -1,45 +1,34 @@
 class Solution {
 public:
     int largestRectangleArea(vector<int>& heights) {
-        int n = heights.size();
-        vector<int>Right(n);
-        vector<int>Left(n);
-        stack<int>st;
-
-        // Next Smaller Right
-        for(int i = 0; i < n; i++){
-            while(!st.empty() && heights[st.top()] > heights[i]){
-                Right[st.top()] = i;
-                st.pop();
-            }
-            st.push(i);
-        }
-
-        // Stack empty
-        while(!st.empty()){
-            Right[st.top()] = n;
-            st.pop();
-        }
-
-        // next Smaller Left
-        for(int i = n-1; i>=0; i--){
-            while(!st.empty() && heights[st.top()] > heights[i]){
-                Left[st.top()] = i;
-                st.pop();
-            }
-            st.push(i);
-        }
-
-         // Stack empty
-        while(!st.empty()){
-            Left[st.top()] = -1;
-            st.pop();
-        }
-
-        // Area calculate
         int ans = 0;
+        int index;
+        stack<int> st;
+        int n = heights.size();
+
         for(int i = 0; i < n; i++){
-            ans = max(ans, heights[i] * (Right[i] - Left[i] - 1));
+            while(!st.empty() && heights[st.top()] > heights[i]){
+                index = st.top();
+                st.pop();
+                if(!st.empty()){
+                    ans = max(ans, heights[index] * (i - st.top() - 1));
+                }else{
+                    ans = max(ans, heights[index] * i);
+                }
+            }
+
+            st.push(i);
+        }
+
+        // Empty Stack
+        while(!st.empty()){
+            index = st.top();
+            st.pop();
+            if(!st.empty()){
+                ans = max(ans, heights[index] * (n - st.top() - 1));
+            }else{
+                ans = max(ans, heights[index] * n);
+            }
         }
 
         return ans;
