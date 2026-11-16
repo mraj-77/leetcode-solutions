@@ -114,6 +114,7 @@
 | [0074-search-a-2d-matrix](https://github.com/mraj-77/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/mraj-77/leetcode-solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mraj-77/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/mraj-77/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/mraj-77/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mraj-77/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mraj-77/leetcode-solutions/tree/master/0136-single-number) |
@@ -169,6 +170,7 @@
 | [0022-generate-parentheses](https://github.com/mraj-77/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mraj-77/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/mraj-77/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/mraj-77/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mraj-77/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/mraj-77/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Ternary Search
@@ -187,6 +189,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mraj-77/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mraj-77/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/mraj-77/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/mraj-77/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/mraj-77/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mraj-77/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -197,6 +200,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mraj-77/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mraj-77/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/mraj-77/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mraj-77/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Matrix
 |  |
@@ -204,6 +208,7 @@
 | [0048-rotate-image](https://github.com/mraj-77/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mraj-77/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/mraj-77/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/mraj-77/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [1672-richest-customer-wealth](https://github.com/mraj-77/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Greedy
 |  |
