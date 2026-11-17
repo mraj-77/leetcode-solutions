@@ -33,6 +33,7 @@
 | [0844-backspace-string-compare](https://github.com/mraj-77/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mraj-77/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/mraj-77/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2390-removing-stars-from-a-string](https://github.com/mraj-77/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -195,6 +196,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mraj-77/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mraj-77/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/mraj-77/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2390-removing-stars-from-a-string](https://github.com/mraj-77/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -262,6 +264,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mraj-77/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/mraj-77/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/mraj-77/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2390-removing-stars-from-a-string](https://github.com/mraj-77/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/mraj-77/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 ## Sliding Window
 |  |
